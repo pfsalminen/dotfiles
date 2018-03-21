@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Отправляйте и получайте все ваши текстовые сообщения на ноутбук, компьютер или планшет, как на вашем смартфоне."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "mysms - Текст  на любом устройстве"
+   }
+}

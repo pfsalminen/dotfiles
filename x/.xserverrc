@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# executed by xinit when using startx
+
+# make sure to be runnning in authenticated session with logind
+# this will make it so you cannot bypass screenlock by switching terminals
+exec /usr/bin/Xorg -nolisten tcp "$@" vt$XDG_VTNR

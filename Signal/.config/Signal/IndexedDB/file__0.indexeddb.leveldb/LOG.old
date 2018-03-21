@@ -1,0 +1,6 @@
+2018/03/05-22:52:11.826 4407 Reusing MANIFEST /home/paul/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/03/05-22:52:11.827 4407 Recovering log #3
+2018/03/05-22:52:11.833 4407 Reusing old log /home/paul/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2018/03/06-14:41:10.394 32224 Level-0 table #5: started
+2018/03/06-14:41:10.437 32224 Level-0 table #5: 1470656 bytes OK
+2018/03/06-14:41:10.452 32224 Delete type=0 #3

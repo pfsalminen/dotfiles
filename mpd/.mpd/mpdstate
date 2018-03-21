@@ -1,0 +1,92 @@
+sw_volume: 100
+audio_device_state:1:MPD PulseAudio Output
+audio_device_state:1:my_fifo
+state: pause
+current: 1
+time: 30.695000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Emancipator - Seven Seas/Emancipator - Seven Seas - 01 All In Here.flac
+1:Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac
+2:Emancipator - Seven Seas/Emancipator - Seven Seas - 03 1993.flac
+3:Emancipator - Seven Seas/Emancipator - Seven Seas - 04 Ocelot.flac
+4:Emancipator - Seven Seas/Emancipator - Seven Seas - 05 Vision Quest.flac
+5:Emancipator - Seven Seas/Emancipator - Seven Seas - 07 Canopy.flac
+6:Emancipator - Seven Seas/Emancipator - Seven Seas - 08 Delta Trance.flac
+7:Emancipator - Seven Seas/Emancipator - Seven Seas - 09 The Key.flac
+8:Emancipator - Seven Seas/Emancipator - Seven Seas - 10 Oasis.flac
+9:Emancipator - Seven Seas/Emancipator - Seven Seas - 11 Honey.flac
+10:Jamie xx - In Colour/01 - Gosh.flac
+11:Jamie xx - In Colour/02 - Sleep Sound.flac
+12:Jamie xx - In Colour/03 - SeeSaw (feat. Romy).flac
+13:Jamie xx - In Colour/04 - Obvs.flac
+14:Jamie xx - In Colour/05 - Just Saying.flac
+15:Jamie xx - In Colour/06 - Stranger In A Room (feat. Oliver Sim).flac
+16:Jamie xx - In Colour/10 - The Rest Is Noise.flac
+17:Jamie xx - In Colour/11 - Girl.flac
+18:Emancipator - Seven Seas/Emancipator - Seven Seas - 01 All In Here.flac
+19:Alex!/1 - Another Love.mp3
+20:Alex!/2 - The Hazards of Love Part 1.mp3
+21:Alex!/3 - Atlantic City.mp3
+22:Alex!/4 - Let Go.mp3
+23:Alex!/5 - Cubism Dream .mp3
+24:Alex!/6 - Unhurried Hearts.mp3
+25:Alex!/7 - Twinkle.mp3
+26:Alex!/8 - Slow Show.mp3
+27:Alex!/9 - Broken Hearts.mp3
+28:Alex!/10 - 7th Period- 7 Weeks.mp3
+29:Alex!/11 - Live To Tell The Tale.mp3
+30:Alex!/12 - Treat Her Better.mp3
+31:Alex!/13 - I get so drunk about songs about love.mp3
+32:Alex!/15 - Cold Feet.mp3
+33:Alex!/16 - Hedonistic Me.mp3
+34:Alex!/17 - When They Fight, They Fight.mp3
+35:Alex!/18 - Love And Some Verses.mp3
+36:Alex!/19 - Love You More.mp3
+37:Alex!/20 - The Only Living Boy In New York.mp3
+38:Alex!/21 - For The Record.mp3
+39:Alex!/22 - If I Had a Boat.mp3
+40:Alex!/23 - It Never Stops.mp3
+41:Alex!/24 - Like Real People Do.mp3
+42:Alex!/25 - Edmonton.mp3
+43:Alex!/26 - The Gaudy Side of Town.mp3
+44:Alex!/27 - Future Sick.mp3
+45:Alex!/28 - You Can.mp3
+46:Alex!/29 - Saturday Love.mp3
+47:Alex!/30 - Can You Discover .mp3
+48:Alex!/31 - Heavenly Father.mp3
+49:Alex!/32- Resolution.mp3
+50:Alex!/33 - So Now What.mp3
+51:Alex!/34 - I Dont´t Want To Change You.mp3
+52:Alex!/35 - Choose You.mp3
+53:Alex!/36 - One of These Things First.mp3
+54:Alex!/38 - I Forget Where We Were.mp3
+55:Alex!/39 - The Greatest Bastard.mp3
+56:Alex!/40 - Talking Bird.mp3
+57:Alex!/41 - With My Hands Out.mp3
+58:Alex!/43 - Ghost.mp3
+59:Alex!/44 - Floating in the Forth.mp3
+60:Emancipator - Seven Seas/Emancipator - Seven Seas - 01 All In Here.flac
+61:Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac
+62:Emancipator - Seven Seas/Emancipator - Seven Seas - 03 1993.flac
+63:Emancipator - Seven Seas/Emancipator - Seven Seas - 04 Ocelot.flac
+64:Emancipator - Seven Seas/Emancipator - Seven Seas - 05 Vision Quest.flac
+65:Emancipator - Seven Seas/Emancipator - Seven Seas - 07 Canopy.flac
+66:Emancipator - Seven Seas/Emancipator - Seven Seas - 08 Delta Trance.flac
+67:Emancipator - Seven Seas/Emancipator - Seven Seas - 09 The Key.flac
+68:Emancipator - Seven Seas/Emancipator - Seven Seas - 10 Oasis.flac
+69:Emancipator - Seven Seas/Emancipator - Seven Seas - 11 Honey.flac
+70:Body Language/Body Language - Grammar/1-02 Just Because.mp3
+71:Jens Lekman/Night Falls Over Kortedala/01 - Jens Lekman - And I Remember Every Kiss.m4a
+72:Porches/Party Pandas/01 Punktastic is Stoked.mp3
+73:Porches/Party Pandas/02 You're Mental.mp3
+74:Porches/Party Pandas/03 I Make a Mean Carbonara... With K.mp3
+75:Porches/Party Pandas/04 Y'All Can Suck My Rebel Dick!.mp3
+76:Jeff Rosenstock/I Look Like Shit/01 Twinkle.flac
+playlist_end

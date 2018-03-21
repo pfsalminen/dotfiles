@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Send & receive SMS on your computer through your Android phone. Take advantage of your full keyboard instead of typing on the phone."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "mysms - SMS from Computer"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://app.mysms.com/"
+      },
+      "urls": [ "https://app.mysms.com/", "http://app.mysms.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDajIvhwfv0ljdYvi3Dbo9TgJANiwpLS/YOY6irV7OojoVMZluzT9QuaD9iYHA1Tyy/tyVQIxmjRhYXvwnvHF2UlrgvZ1mqQ6cZQzJznrVjxyZeld1tAR+Qo7EEQh3lYSIlBzd0YrIPNhK58h5trOA57gpJD73XS1unca/cWxocrwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.3.4"
+}

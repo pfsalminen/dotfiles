@@ -1,0 +1,3 @@
+2018/03/06-20:48:28.834 16214 Reusing MANIFEST /home/paul/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/03/06-20:48:28.834 16214 Recovering log #4
+2018/03/06-20:48:28.888 16214 Reusing old log /home/paul/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 

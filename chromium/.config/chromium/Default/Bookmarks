@@ -1,0 +1,775 @@
+{
+   "checksum": "cdfaf68d2bf3fb7fe8bf6ab744b4125f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13032523545565877",
+               "id": "158",
+               "meta_info": {
+                  "last_visited": "13144923873219869"
+               },
+               "name": "▶ Clams Casino - I'm God (Music Video) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.youtube.com/watch?v=1dh_mfqxRv8"
+            }, {
+               "date_added": "13040807531861970",
+               "id": "159",
+               "meta_info": {
+                  "last_visited": "13144923867719848"
+               },
+               "name": "Wave Machines - Keep The Lights On - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sYsss7Gm9aU"
+            }, {
+               "date_added": "13040806740364503",
+               "id": "160",
+               "meta_info": {
+                  "last_visited": "13144923859722070"
+               },
+               "name": "Rileys Kabinett - Pandanom - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?feature=player_embedded&v=EyDb6PjIJgM"
+            }, {
+               "date_added": "13055304950601859",
+               "id": "161",
+               "meta_info": {
+                  "last_visited": "13144923843743234"
+               },
+               "name": "\"Rearview Mirror\" by Chloe Collins - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=E7ir00qxlt8"
+            }, {
+               "date_added": "13056573187053476",
+               "id": "162",
+               "meta_info": {
+                  "last_visited": "13144923524300460"
+               },
+               "name": "All Along the Watchtower - Open Mic - John Guth - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WBf_Bngyd_w"
+            }, {
+               "date_added": "13045993566570000",
+               "id": "163",
+               "name": "Blue Mountain (band) - Wikipedia, the free encyclopedia",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://en.wikipedia.org/wiki/Blue_Mountain_(band)"
+            }, {
+               "date_added": "13110964071753254",
+               "id": "164",
+               "name": "ANOHNI: HOPELESSNESS Album Review | Pitchfork",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://pitchfork.com/reviews/albums/21819-hopelessness/"
+            }, {
+               "date_added": "13125517095191968",
+               "id": "165",
+               "meta_info": {
+                  "last_visited": "13144924169405499"
+               },
+               "name": "premiere: hear a previously unreleased song from Strawberry Switchblade’s 1982 4-piece demo",
+               "sync_transaction_version": "357",
+               "type": "url",
+               "url": "http://www.gorillavsbear.net/premiere-hear-a-previously-unreleased-song-from-strawberry-switchblades-1982-4-piece-demo/"
+            }, {
+               "date_added": "13125517233347394",
+               "id": "166",
+               "name": "Danny L Harle – Super Natural feat. Carly Rae Jepsen | Xclusive Jams",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.xclusivejams.co/danny-l-harle-super-natural-feat-carly-rae-jepsen/"
+            }, {
+               "date_added": "13125522178252682",
+               "id": "167",
+               "name": "White Christma$ - Mac Demarco - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=xvCFCoLau8U&feature=youtu.be"
+            }, {
+               "date_added": "13128521709085099",
+               "id": "168",
+               "name": "New Musik - Warp (Ilo Edit) - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jy-yMWbI7NQ"
+            } ],
+            "date_added": "13057527866880141",
+            "date_modified": "13162354359968379",
+            "id": "9",
+            "name": "Music",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13131775365830418",
+               "id": "83",
+               "name": "https://launchpad.net/wakeup",
+               "sync_transaction_version": "291",
+               "type": "url",
+               "url": "https://launchpad.net/wakeup"
+            }, {
+               "date_added": "13130229125103327",
+               "id": "84",
+               "name": "The i3 thread / Applications & Desktop Environments / Arch Linux Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=99064"
+            }, {
+               "date_added": "13130229125104471",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13162395272674812"
+               },
+               "name": "Comparison of tiling window managers - ArchWiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Comparison_of_tiling_window_managers"
+            }, {
+               "date_added": "13130229125104827",
+               "id": "88",
+               "name": "fluxbox.org - features",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://fluxbox.org/features/"
+            }, {
+               "date_added": "13130229125105113",
+               "id": "89",
+               "name": "about - awesome window manager",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://awesomewm.org/"
+            }, {
+               "date_added": "13130867938329211",
+               "id": "92",
+               "name": "What Happens When Millennials Grow Up? - VICE",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.vice.com/en_uk/article/what-happens-when-millennials-grow-up?utm_source=vicefbuk&utm_campaign=global"
+            }, {
+               "date_added": "13130867938330124",
+               "id": "93",
+               "name": "11 signs you lack emotional intelligence - Business Insider",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.businessinsider.com/11-signs-you-lack-emotional-intelligence-2017-1?utm_content=bufferf802c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti&IR=T"
+            }, {
+               "date_added": "13130867938330604",
+               "id": "94",
+               "name": "Music | Ghost King",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ghostkingghost.bandcamp.com/"
+            }, {
+               "date_added": "13129210841994561",
+               "id": "95",
+               "name": "2.1 channel integrated amplifier - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=2.1+channel+integrated+amplifier&oq=2.1+channel+integrated+amplifier&aqs=chrome..69i57.6302j0j4&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13129210841994974",
+               "id": "96",
+               "name": "karl pilkington - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=carl+pilkingron&oq=carl+pilkingron&aqs=chrome..69i57.5572j0j7&sourceid=chrome&ie=UTF-8#q=karl+pilkington"
+            }, {
+               "date_added": "13129210841995329",
+               "id": "97",
+               "name": "goldenear triton three amplifier recommendations - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=NAD+C+338&oq=NAD+C+338+&aqs=chrome..69i57j69i60.1565j0j7&sourceid=chrome&ie=UTF-8#q=goldenear+triton+three+amplifier+recommendations"
+            }, {
+               "date_added": "13129210841995780",
+               "id": "98",
+               "name": "the mighty boosh - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=the+mighty+boosh&oq=the+mighty+boosh&aqs=chrome..69i57.2008j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13127667135317385",
+               "id": "100",
+               "name": "API.AI",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://console.api.ai/api-client/#/agent/d9fea7b2-d361-40e2-85c4-03114b47d9d2/integrations"
+            }, {
+               "date_added": "13127667135318285",
+               "id": "102",
+               "name": "apiai-weather-webhook-sample/app.py at master · api-ai/apiai-weather-webhook-sample",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/api-ai/apiai-weather-webhook-sample/blob/master/app.py"
+            }, {
+               "date_added": "13127667135319969",
+               "id": "105",
+               "name": "Quickstart for Linux  |  Cloud SDK Documentation  |  Google Cloud Platform",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://cloud.google.com/sdk/docs/quickstart-linux"
+            }, {
+               "date_added": "13125811129505045",
+               "id": "107",
+               "name": "Dirk Gently's Holistic Detective Agency - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Dirk+Gently%27s+Holistic+Detective+Agency&oq=Dirk+Gently%27s+Holistic+Detective+Agency&aqs=chrome..69i57.253j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13126905196186924",
+               "id": "111",
+               "name": "beanath with me version 1 - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=beanath+with+me+version+1&oq=beanath+with+me+version+1&aqs=chrome..69i57.7870j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13126905196187076",
+               "id": "112",
+               "name": "forgot bitcoin paper wallet password - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=offline+bitcoin&oq=offline+bitcoin&aqs=chrome..69i57.4013j0j7&sourceid=chrome&ie=UTF-8#q=forgot+bitcoin+paper+wallet+password"
+            }, {
+               "date_added": "13126905196187383",
+               "id": "114",
+               "name": "Great Big Story : The Fine Art of Rock Balancing | That’s Amazing",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.greatbigstory.com/stories/rock-balancing-that-s-amazing"
+            }, {
+               "date_added": "13126905196187507",
+               "id": "115",
+               "name": "wolff economy - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=wolff+economy&oq=wolff+economy&aqs=chrome..69i57.3678j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13126905196188305",
+               "id": "116",
+               "name": "heather schwartz zaga - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.com/search?q=heather+schwartz+zaga&oq=heather+schwartz+zaga&aqs=chrome..69i57.7740j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13126905196188443",
+               "id": "117",
+               "name": "Mark Zuckerberg Just Unveiled His Newest Creation, an AI Named Jarvis",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://futurism.com/mark-zuckerberg-just-unveiled-his-newest-creation-an-ai-named-jarvis/"
+            }, {
+               "date_added": "13129956297613735",
+               "id": "118",
+               "name": "how do you use i3 comfortably? - i3 FAQ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://faq.i3wm.org/question/279/how-do-you-use-i3-comfortably/?answer=342#post-id-342"
+            }, {
+               "date_added": "13132195269619332",
+               "id": "121",
+               "name": "suckless.org dwm - dynamic window manager",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dwm.suckless.org/"
+            }, {
+               "date_added": "13132195269620096",
+               "id": "122",
+               "name": "Problem 23 - Project Euler",
+               "sync_transaction_version": "149",
+               "type": "url",
+               "url": "https://projecteuler.net/problem=23"
+            }, {
+               "date_added": "13132195269620803",
+               "id": "123",
+               "name": "Connect Google Home to my Computer - Google Product Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://productforums.google.com/forum/#!topic/googlehome/RXqJXbHMUFs"
+            }, {
+               "date_added": "13132195269621638",
+               "id": "124",
+               "name": "Google Cast - Home Assistant",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://home-assistant.io/components/media_player.cast/"
+            }, {
+               "date_added": "13132195269623318",
+               "id": "125",
+               "name": "Everything Google Home",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/googlehome/"
+            }, {
+               "date_added": "13132195269624072",
+               "id": "126",
+               "name": "Chapter 3. Command reference",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.musicpd.org/doc/protocol/command_reference.html"
+            }, {
+               "date_added": "13132195269625189",
+               "id": "128",
+               "name": "[i3-gaps] My first attempt. : unixporn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/5v3lwy/i3gaps_my_first_attempt/"
+            }, {
+               "date_added": "13132195269625707",
+               "id": "129",
+               "name": "GitHub - Stickano/dotfiles",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/Stickano/dotfiles"
+            }, {
+               "date_added": "13132195269627727",
+               "id": "133",
+               "meta_info": {
+                  "last_visited_desktop": "13162516517346250"
+               },
+               "name": "GitHub - ranger/ranger: A VIM-inspired filemanager for the console",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/ranger/ranger"
+            }, {
+               "date_added": "13132195269628233",
+               "id": "134",
+               "name": "Abcde - A Better CD Encoder",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lly.org/~rcw/abcde/page/"
+            }, {
+               "date_added": "13132195269629315",
+               "id": "136",
+               "name": "ReactJS For Stupid People",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.andrewray.me/reactjs-for-stupid-people/"
+            }, {
+               "date_added": "13162704225730392",
+               "id": "219",
+               "meta_info": {
+                  "last_visited_desktop": "13162704225733197"
+               },
+               "name": "GLMViz/examples at master · hannesha/GLMViz · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/hannesha/GLMViz/tree/master/examples"
+            }, {
+               "date_added": "13162723614997448",
+               "id": "223",
+               "meta_info": {
+                  "last_visited": "13163210972584802",
+                  "last_visited_desktop": "13163292794793311"
+               },
+               "name": "Archi3/config at master · erikdubois/Archi3 · GitHub",
+               "sync_transaction_version": "4",
+               "type": "url",
+               "url": "https://github.com/erikdubois/Archi3/blob/master/config"
+            }, {
+               "date_added": "13164791989620676",
+               "id": "247",
+               "meta_info": {
+                  "last_visited_desktop": "13164791989621343"
+               },
+               "name": "The 30 Best Companies for Consulting and Professional Services | Fortune",
+               "sync_transaction_version": "290",
+               "type": "url",
+               "url": "http://fortune.com/2017/02/16/30-best-companies-consulting-management-workplaces/"
+            }, {
+               "date_added": "13164882888547265",
+               "id": "249",
+               "meta_info": {
+                  "last_visited_desktop": "13164882888548281"
+               },
+               "name": "tpope/.muttrc at master · tpope/tpope",
+               "sync_transaction_version": "296",
+               "type": "url",
+               "url": "https://github.com/tpope/tpope/blob/master/.muttrc"
+            }, {
+               "date_added": "13164883277358080",
+               "id": "250",
+               "meta_info": {
+                  "last_visited_desktop": "13164883277359046"
+               },
+               "name": "easymotion/vim-easymotion: Vim motions on speed!",
+               "sync_transaction_version": "300",
+               "type": "url",
+               "url": "https://github.com/easymotion/vim-easymotion"
+            }, {
+               "date_added": "13162484924325489",
+               "id": "198",
+               "meta_info": {
+                  "last_visited_desktop": "13162502079965294"
+               },
+               "name": "Topic: tui · GitHub",
+               "sync_transaction_version": "362",
+               "type": "url",
+               "url": "https://github.com/topics/tui"
+            }, {
+               "date_added": "13162484924326349",
+               "id": "208",
+               "meta_info": {
+                  "last_visited_desktop": "13162502079992451"
+               },
+               "name": "GitHub - bram85/topydo: A powerful todo list application for the console, using the todo.txt format.",
+               "sync_transaction_version": "363",
+               "type": "url",
+               "url": "https://github.com/bram85/topydo"
+            }, {
+               "date_added": "13162484924327768",
+               "id": "207",
+               "meta_info": {
+                  "last_visited_desktop": "13166086273159365"
+               },
+               "name": "Getting started with dotfiles – Lars Kappert – Medium",
+               "sync_transaction_version": "502",
+               "type": "url",
+               "url": "https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789"
+            }, {
+               "date_added": "13162487385939794",
+               "id": "209",
+               "meta_info": {
+                  "last_visited_desktop": "13162502080151260"
+               },
+               "name": "Connect Philips Hue Hub Directly to Laptop instead of Router? / Networking, Server, and Protection / Arch Linux Forums",
+               "sync_transaction_version": "365",
+               "type": "url",
+               "url": "https://bbs.archlinux.org/viewtopic.php?id=233937"
+            }, {
+               "date_added": "13163731429818859",
+               "id": "235",
+               "meta_info": {
+                  "last_visited_desktop": "13163731429819336"
+               },
+               "name": "Transitioning to Neomutt and friends for e-mail - ankursinha.in/blog",
+               "sync_transaction_version": "366",
+               "type": "url",
+               "url": "http://ankursinha.in/blog/2017/12/16/transitioning-to-neomutt-and-friends-for-e-mail.html"
+            }, {
+               "date_added": "13162392839997140",
+               "id": "180",
+               "meta_info": {
+                  "last_visited_desktop": "13162392839997845"
+               },
+               "name": "GitHub - marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier",
+               "sync_transaction_version": "367",
+               "type": "url",
+               "url": "https://github.com/marcotcr/lime"
+            }, {
+               "date_added": "13162922274427136",
+               "id": "225",
+               "meta_info": {
+                  "last_visited_desktop": "13162922274427351"
+               },
+               "name": "GitHub - webpro/awesome-dotfiles: A curated list of dotfiles resources.",
+               "sync_transaction_version": "368",
+               "type": "url",
+               "url": "https://github.com/webpro/awesome-dotfiles"
+            }, {
+               "date_added": "13162680494686743",
+               "id": "214",
+               "meta_info": {
+                  "last_visited_desktop": "13163622896420026"
+               },
+               "name": "GitHub - oblique/create_ap: This script creates a NATed or Bridged WiFi Access Point.",
+               "sync_transaction_version": "369",
+               "type": "url",
+               "url": "https://github.com/oblique/create_ap"
+            }, {
+               "date_added": "13163205900329660",
+               "id": "230",
+               "meta_info": {
+                  "last_visited_desktop": "13163205900329820"
+               },
+               "name": "Topic: commandline-interface · GitHub",
+               "sync_transaction_version": "370",
+               "type": "url",
+               "url": "https://github.com/topics/commandline-interface"
+            }, {
+               "date_added": "13163205900330169",
+               "id": "231",
+               "meta_info": {
+                  "last_visited_desktop": "13163205900330509"
+               },
+               "name": "GitHub - gautamkrishnar/socli: Stack overflow command line client. Search and browse stack overflow without leaving the terminal",
+               "sync_transaction_version": "371",
+               "type": "url",
+               "url": "https://github.com/gautamkrishnar/socli"
+            }, {
+               "date_added": "13163205900330620",
+               "id": "232",
+               "meta_info": {
+                  "last_visited_desktop": "13163205900330946"
+               },
+               "name": "GitHub - matthiasbeyer/imag: imag - Text based personal information management suite",
+               "sync_transaction_version": "372",
+               "type": "url",
+               "url": "https://github.com/matthiasbeyer/imag"
+            }, {
+               "date_added": "13149553583573698",
+               "id": "54",
+               "meta_info": {
+                  "last_visited_desktop": "13149553583578452"
+               },
+               "name": "VIM and Python - a match made in heaven - Real Python",
+               "sync_transaction_version": "373",
+               "type": "url",
+               "url": "https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/"
+            }, {
+               "date_added": "13149553583581788",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13149553583582512"
+               },
+               "name": "(1) How do I became a good javascript programmer? - Quora",
+               "sync_transaction_version": "374",
+               "type": "url",
+               "url": "https://www.quora.com/How-do-I-became-a-good-javascript-programmer"
+            }, {
+               "date_added": "13149553583583121",
+               "id": "57",
+               "meta_info": {
+                  "last_visited_desktop": "13149553583583778"
+               },
+               "name": "(2) How does your VIM screen look like as a programmer? - Quora",
+               "sync_transaction_version": "375",
+               "type": "url",
+               "url": "https://www.quora.com/How-does-your-VIM-screen-look-like-as-a-programmer"
+            }, {
+               "date_added": "13163731429819709",
+               "id": "236",
+               "meta_info": {
+                  "last_visited_desktop": "13163731429819933"
+               },
+               "name": "Configuration - NeoMutt",
+               "sync_transaction_version": "376",
+               "type": "url",
+               "url": "https://www.neomutt.org/guide/configuration"
+            }, {
+               "date_added": "13163731429820289",
+               "id": "237",
+               "meta_info": {
+                  "last_visited_desktop": "13163731429820497"
+               },
+               "name": "Mutt - ArchWiki",
+               "sync_transaction_version": "377",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/mutt#NeoMutt"
+            }, {
+               "date_added": "13163008913689888",
+               "id": "226",
+               "meta_info": {
+                  "last_visited_desktop": "13163008913690712"
+               },
+               "name": "Channel 101 - Computerman - Episode 1",
+               "sync_transaction_version": "378",
+               "type": "url",
+               "url": "http://www.channel101.com/episode/211"
+            }, {
+               "date_added": "13145390875559676",
+               "id": "170",
+               "meta_info": {
+                  "last_visited": "13157933853165549",
+                  "last_visited_desktop": "13145411002243833"
+               },
+               "name": "GitHub - wanqizhu/devops-against-humanity: DevOps Against Humanity",
+               "sync_transaction_version": "386",
+               "type": "url",
+               "url": "https://github.com/wanqizhu/devops-against-humanity"
+            }, {
+               "date_added": "13164917789549765",
+               "id": "253",
+               "meta_info": {
+                  "last_visited_desktop": "13164917789550759"
+               },
+               "name": "ixIRC - IRC / XDCC Search Engine",
+               "sync_transaction_version": "408",
+               "type": "url",
+               "url": "https://www.ixirc.com/"
+            }, {
+               "date_added": "13164917791948485",
+               "id": "254",
+               "meta_info": {
+                  "last_visited_desktop": "13164917791949179"
+               },
+               "name": "xdcc - Google Search",
+               "sync_transaction_version": "409",
+               "type": "url",
+               "url": "https://www.google.com/search?q=xdcc&oq=xdcc&aqs=chrome..69i57j69i61.642j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13164923448189015",
+               "id": "255",
+               "meta_info": {
+                  "last_visited_desktop": "13164923448190100"
+               },
+               "name": "Google Technical Solutions Consultant Interview Questions | Glassdoor",
+               "sync_transaction_version": "413",
+               "type": "url",
+               "url": "https://www.glassdoor.com/Interview/Google-Technical-Solutions-Consultant-Interview-Questions-EI_IE9079.0,6_KO7,37.htm"
+            }, {
+               "date_added": "13164953061960497",
+               "id": "257",
+               "meta_info": {
+                  "last_visited_desktop": "13164953061961099"
+               },
+               "name": "MovieLens | GroupLens",
+               "sync_transaction_version": "423",
+               "type": "url",
+               "url": "https://grouplens.org/datasets/movielens/"
+            }, {
+               "date_added": "13164953067361864",
+               "id": "258",
+               "meta_info": {
+                  "last_visited_desktop": "13164953067362960"
+               },
+               "name": "future 0.16.0 : Python Package Index",
+               "sync_transaction_version": "426",
+               "type": "url",
+               "url": "https://pypi.python.org/pypi/future"
+            }, {
+               "date_added": "13164953074840833",
+               "id": "259",
+               "meta_info": {
+                  "last_visited_desktop": "13164953074841540"
+               },
+               "name": "Tail Light Lens/Assembly | O'Reilly Auto Parts",
+               "sync_transaction_version": "430",
+               "type": "url",
+               "url": "https://www.oreillyauto.com/shop/lighting---electrical-16777/lamp-lens-assemblies-16475/tail-light-lens-assembly-13343"
+            } ],
+            "date_added": "13130229125102033",
+            "date_modified": "13165019316209330",
+            "id": "11",
+            "name": "Stuffs",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13075955860951000",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13164375123167774",
+               "last_visited_desktop": "13164329623892765"
+            },
+            "name": "The Feynman Lectures on Physics",
+            "sync_transaction_version": "394",
+            "type": "url",
+            "url": "http://www.feynmanlectures.caltech.edu/"
+         }, {
+            "date_added": "13077924136535995",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13146267100231634"
+            },
+            "name": "How Well Can You Hear Audio Quality? : The Record : NPR",
+            "sync_transaction_version": "395",
+            "type": "url",
+            "url": "http://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"
+         }, {
+            "date_added": "13148796232563264",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13161926534512546",
+               "last_visited_desktop": "13166085482670767"
+            },
+            "name": "Solving the 5x5x5 (Professor) Cube",
+            "sync_transaction_version": "493",
+            "type": "url",
+            "url": "http://www.alchemistmatt.com/cube/5by5cube.html#step6"
+         }, {
+            "date_added": "13165130570223687",
+            "id": "261",
+            "meta_info": {
+               "last_visited": "13165130570229336",
+               "last_visited_desktop": "13166085493391767"
+            },
+            "name": "Detroit Terraces | 1530 Detroit St, Denver, CO 80206 | Boutique Apartments™",
+            "sync_transaction_version": "495",
+            "type": "url",
+            "url": "https://www.boutiqueapartments.com/apartments/detroit-terraces/"
+         }, {
+            "date_added": "13165462596297457",
+            "id": "262",
+            "meta_info": {
+               "last_visited_desktop": "13165462596305611"
+            },
+            "name": "The Internet's Own Boy: The Story of Aaron Swartz - YouTube",
+            "sync_transaction_version": "438",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=M85UvH0TRPc"
+         }, {
+            "date_added": "13165745726758106",
+            "id": "267",
+            "meta_info": {
+               "last_visited_desktop": "13166084267488263"
+            },
+            "name": "Donald Glover Can’t Save You | The New Yorker",
+            "sync_transaction_version": "460",
+            "type": "url",
+            "url": "https://www.newyorker.com/magazine/2018/03/05/donald-glover-cant-save-you"
+         } ],
+         "date_added": "13162354098738558",
+         "date_modified": "13165745726758106",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13162354098738564",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "502",
+      "synced": {
+         "children": [ {
+            "date_added": "13130083779402125",
+            "id": "5",
+            "name": "New tab",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13130229107824891",
+            "id": "6",
+            "name": "whatimg - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/search?q=what+img&oq=what+img&aqs=chrome..69i57.2281j0j7&sourceid=chrome&ie=UTF-8#q=whatimg"
+         }, {
+            "date_added": "13144855566950411",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13144855566958411"
+            },
+            "name": "Harmony Explained: Progress Towards A Scientific Theory of Music",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://arxiv.org/html/1202.4212v2"
+         }, {
+            "date_added": "13159033805488979",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13159033805491075"
+            },
+            "name": "Sr. Software Engineer Job in Boulder, CO at Cybercoders ($100K-$130K/yr)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.ziprecruiter.com/jobs/cybercoders-befe3473/sr-software-engineer-26e1934e?auth_token=_v3_9208d41f81f2598b42f6529640585933f8fe0da208758cb5bfa80df038f85536&contact_id=1588998a&expires=1514709515&mid=5902&source=magic5-candidate-followup&source_board_id=5902"
+         } ],
+         "date_added": "13162354098738565",
+         "date_modified": "13159033805488979",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
