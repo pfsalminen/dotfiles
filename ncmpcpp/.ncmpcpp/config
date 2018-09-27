@@ -1,4 +1,4 @@
-mpd_music_dir               = "/data/Music/"
+mpd_music_dir               = "~/Music/"
 statusbar_visibility        = "yes"
 visualizer_in_stereo        = yes
 visualizer_fifo_path        = "/tmp/mpd.fifo"

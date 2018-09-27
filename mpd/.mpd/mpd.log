@@ -5010,3 +5010,10 @@ Mar 19 22:09 : client: [0] opened from 127.0.0.1:55936
 Mar 19 22:09 : client: [1] opened from 127.0.0.1:55940
 Mar 19 22:10 : client: [1] closed
 Mar 19 22:10 : player: played "Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac"
+Sep 26 19:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 26 19:56 : exception: Failed to decode /data/Music/Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac
+Sep 26 19:56 : exception: nested: Failed to open /data/Music/Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac: No such file or directory
+Sep 26 19:56 : player: played "Emancipator - Seven Seas/Emancipator - Seven Seas - 02 Seven Seas feat. Madelyn Grant.flac"
+Sep 26 19:56 : exception: Failed to decode /data/Music/Emancipator - Seven Seas/Emancipator - Seven Seas - 03 1993.flac
+Sep 26 19:56 : exception: nested: Failed to open /data/Music/Emancipator - Seven Seas/Emancipator - Seven Seas - 03 1993.flac: No such file or directory
+Sep 26 19:56 : player: played "Emancipator - Seven Seas/Emancipator - Seven Seas - 03 1993.flac"

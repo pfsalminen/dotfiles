@@ -1,7 +1,0 @@
-gaia.known_zeroconf="{\"5ca9998a669f11b911b229c2a9951605786d18d9\":{\"known\":false,\"popularity\":1,\"prio\":\"connect\",\"shown\":0}}"
-lastfm.enabled=true
-audio.sync_bitrate_enumeration=4
-audio.play_bitrate_enumeration=4
-lastfm.user="paulpoptart"
-lastfm.pass="1b21335c51e58b3d91252e98f1cf2264"
-gaia.attached_device_id="3022b5fa0bc9103408f4d4a2673f2435619eb40e"
